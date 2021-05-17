@@ -1,0 +1,175 @@
+{
+  "tracks": [
+    {
+      "artist": "Tinashe",
+      "album": "Throw A Fit",
+      "track": "Throw A Fit"
+    },
+    {
+      "artist": "SZA",
+      "album": "Good Days",
+      "track": "Good Days"
+    },
+    {
+      "artist": "Doja Cat",
+      "album": "Hot Pink",
+      "track": "Rules"
+    },
+    {
+      "artist": "LightSkinKeisha",
+      "album": "Talk That Talk",
+      "track": "Spend Sum Cash"
+    },
+    {
+      "artist": "Raveena",
+      "album": "Lucid",
+      "track": "Still Dreaming"
+    },
+    {
+      "artist": "Jenevieve",
+      "album": "Baby Powder",
+      "track": "Baby Powder"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Justice",
+      "track": "Ghost"
+    },
+    {
+      "artist": "OMB Bloodbath",
+      "album": "Dropout (with Maxo Kream)",
+      "track": "Dropout (with Maxo Kream)"
+    },
+    {
+      "artist": "Raveena",
+      "album": "Moonstone EP",
+      "track": "Starflower"
+    },
+    {
+      "artist": "Raveena",
+      "album": "Lucid",
+      "track": "Nectar"
+    },
+    {
+      "artist": "Cautious Clay",
+      "album": "Table of Context",
+      "track": "SATURDAY MORNING CARTOONS (feat. UMI)"
+    },
+    {
+      "artist": "Jhené Aiko",
+      "album": "Chilombo",
+      "track": "B.S. (feat. H.E.R.)"
+    },
+    {
+      "artist": "Raveena",
+      "album": "Lucid",
+      "track": "Stone (Reprise)"
+    },
+    {
+      "artist": "blink-182",
+      "album": "blink-182",
+      "track": "I Miss You"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "CASE STUDY 01",
+      "track": "CYANIDE"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "UMI",
+      "album": "Love Language"
+    },
+    {
+      "artist": "UMI",
+      "album": "Picture Perfect"
+    },
+    {
+      "artist": "Lana Del Rey",
+      "album": "Born To Die - The Paradise Edition"
+    },
+    {
+      "artist": "Jhené Aiko",
+      "album": "Chilombo"
+    },
+    {
+      "artist": "Bipul Chettri",
+      "album": "Sketches of Darjeeling"
+    },
+    {
+      "artist": "UMI",
+      "album": "River"
+    },
+    {
+      "artist": "UMI",
+      "album": "Happy Again"
+    },
+    {
+      "artist": "UMI",
+      "album": "Mother"
+    },
+    {
+      "artist": "UMI",
+      "album": "Interlude"
+    },
+    {
+      "artist": "UMI",
+      "album": "FRIENDZONE"
+    },
+    {
+      "artist": "UMI",
+      "album": "Balance"
+    },
+    {
+      "artist": "Rihanna",
+      "album": "ANTI"
+    },
+    {
+      "artist": "UMI",
+      "album": "High School"
+    },
+    {
+      "artist": "Joji",
+      "album": "Nectar"
+    },
+    {
+      "artist": "UMI",
+      "album": "Remember Me"
+    },
+    {
+      "artist": "Young Thug",
+      "album": "On the Run"
+    },
+    {
+      "artist": "Dalai Lama",
+      "album": "Inner World"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Bookworm",
+      "publisher": "KCRW"
+    },
+    {
+      "name": "Canada Soccer Nation Podcast",
+      "publisher": "Canada Soccer"
+    },
+    {
+      "name": "The Michelle Obama Podcast",
+      "publisher": "Higher Ground"
+    },
+    {
+      "name": "The Official Fantasy Premier League Podcast",
+      "publisher": "Premier League "
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "other": [
+    "spotify:local:::AintSublime+ft.+NInda+ERs_Lilmilly_10-17-2020:185",
+    "spotify:local:::WYMA%3F+Milli+x+Abhishek+_10-9-2020:206"
+  ]
+}
