@@ -36,5 +36,4 @@ The primary objective of this project is to analyze and visualize my own Spotify
 
 Please ensure that your presentation materials are readily accessible and that all links are clickable for easy access. Should you have any questions or require further assistance, feel free to reach out.
 
-Best regards,
-[Abhishek Shrestha]
+Best regards.
